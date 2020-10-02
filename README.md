@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <!-- Download and install necessary files to run api located at: -->
 
+## Use with backend located here:
+
 https://github.com/Kat42272/ghostpost-backend
 
 ## Available Scripts
